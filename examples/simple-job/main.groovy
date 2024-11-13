@@ -1,4 +1,4 @@
-job('example-new') {
+job('example') {
   steps {
     batchFile('echo Hello World!')
   }
